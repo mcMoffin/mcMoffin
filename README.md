@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcMoffin
 - 👀 I’m interested in Web App development!
-- 🌱 I’m currently learning ES7-12
+- 🌱 I’m currently learning JEST
 - 💞️ I’m looking to collaborate on projects that reqire basic front end web dev skills like react.js
 - 📫 How to reach me: I check my git messages regularly!
 
